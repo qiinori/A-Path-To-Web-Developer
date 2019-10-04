@@ -2,15 +2,15 @@
 
 ## Table of Contents
 * **Learning Path**
- * [Front-end Developer roadmap](#roadmap-for-front-end-developer)
- * [IBM job requirements](#ibm-front-end-developer-interns)   
+..* [Front-end Developer roadmap](#roadmap-for-front-end-developer)
+..* [IBM job requirements](#ibm-front-end-developer-interns)   
 
 
  >Based on roadmap and job requirements   
  >Creating learning objects...
 
 
-### [HTML(Hypertext Markup Language)](#htmlhypertext-markup-language)
+### [HTML(Hypertext Markup Language)](#htmlhypertext-markup-language-1)
 ### [CSS(Cascading Style Sheets)](#csscascading-style-sheets-1)
 ### [Javascript](#javascript-1)
 ### [Node.js](#nodejs-2)
