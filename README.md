@@ -1,36 +1,37 @@
 # A-Path-To-Front-End-Developer
 
 ## Table of Contents
-* Learning Path
- * [Front-end Developer roadmap](Road map for front-end Developer)
- * [IBM job requirements](IBM Logo)   
+* **Learning Path**
+ * [Front-end Developer roadmap](### Road map for front-end Developer)
+ * [IBM job requirements](### IBM Front-End Developer Interns)   
 
 
  >Based on roadmap and job requirements   
  >Creating learning objects...
 
- ### [HTML(Hypertext Markup Language)](###HTML(Hypertext Markup Language))
- ### CSS(Cascading Style Sheets)
- ### Javascript
- ### Node.js
- ### Angular.js
- ### Java
- ### Python
- ### Ruby
 
- ### Backbone.js
- ### Angular.js
- ### React
- ### Ember.js
- ### Bootstrap
- ### Node.js
- ### JQuery
+### [HTML(Hypertext Markup Language)](# hTML(Hypertext Markup Language))
+### CSS(Cascading Style Sheets)
+### Javascript
+### Node.js
+### Angular.js
+### Java
+### Python
+### Ruby
 
+### Backbone.js
+### Angular.js
+### React
+### Ember.js
+### Bootstrap
+### Node.js
+### JQuery
 
+### Roadmap for front-end Developer
 ![Road map for front-end Developer](https://github.com/qiinori/A-Path-To-Front-End-Developer/blob/master/images/frontend-transparent.png)
 from https://roadmap.sh/frontend
 
-
+### IBM Front-End Developer Interns
 ![IBM Logo](https://github.com/qiinori/A-Path-To-Front-End-Developer/blob/master/images/IBM%20logo.PNG "IBM")
 >Front-End Developer Interns:
 Have passion and experience for building responsive, elegant and engaging experiences with future friendly web technologies.
