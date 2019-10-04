@@ -1,37 +1,38 @@
 # A-Path-To-Front-End-Developer
 
 ## Table of Contents
-* Learning Path
- * [Front-end Developer roadmap](Road map for front-end Developer)
- * [IBM job requirements](IBM Logo)   
+* **Learning Path**
+    * [Front-end Developer roadmap](#roadmap-for-front-end-developer)
+    * [IBM job requirements](#ibm-front-end-developer-interns)   
 
 
- >Based on roadmap and job requirements
- Creating learning objects...
-
- ##### HTML(Hypertext Markup Language)
- ##### CSS(Cascading Style Sheets)
- ##### Javascript
- ##### Node.js
- ##### Angular.js
- ##### Java
- ##### Python
- ##### Ruby
-
- ##### Backbone.js
- ##### Angular.js
- ##### React
- ##### Ember.js
- ##### Bootstrap
- ##### Node.js
- ##### JQuery
+ >Based on roadmap and job requirements   
+ >Creating learning objects...
 
 
+### [HTML(Hypertext Markup Language)](#htmlhypertext-markup-language-1)
+### [CSS(Cascading Style Sheets)](#csscascading-style-sheets-1)
+### [Javascript](#javascript-1)
+### [Node.js](#nodejs-2)
+### [Angular.js](#angularjs-2)
+### [Java](#java-1)
+### [Python](#python-1)
+### [Ruby](#ruby-1)
+
+### [Backbone.js](#backbonejs-1)
+### [Angular.js](#angularjs-3)
+### [React](#react-1)
+### [Ember.js](#emberjs-1)
+### [Bootstrap](#bootstrap-1)
+### [Node.js](#nodejs-3)
+### [JQuery](#jquery-1)
+
+### Roadmap for front-end Developer
 ![Road map for front-end Developer](https://github.com/qiinori/A-Path-To-Front-End-Developer/blob/master/images/frontend-transparent.png)
+from https://roadmap.sh/frontend
 
-
-
-![IBM Logo]("IBM")
+### IBM Front-End Developer Interns
+![IBM Logo](https://github.com/qiinori/A-Path-To-Front-End-Developer/blob/master/images/IBM%20logo.PNG "IBM")
 >Front-End Developer Interns:
 Have passion and experience for building responsive, elegant and engaging experiences with future friendly web technologies.
 Work closely with designers to take wireframes from conception to implementation and design and improve user interfaces
@@ -54,28 +55,23 @@ You have a basic understanding of software development and programming languages
 >
 >Must have basic knowledge in one or more of the following technology areas: Java, Ruby, Python, Javascript, HTML, CSS, Node.js, Angular.js
 Knowledge of Backbone.js, Angular.js, React, Ember.js, Bootstrap, Node.js, and JQuery
-Willing to travel up to 10%
+Willing to travel up to 10%    
 from   
 https://careers.ibm.com/ShowJob/Id/757416/Front-End-Developer-Intern-12-months-(Ottawa,-ON)/?lang=en#?lang=en
 
-##### HTML
+### HTML(Hypertext Markup Language)
+### CSS(Cascading Style Sheets)
+### Javascript
+### Node.js
+### Angular.js
+### Java
+### Python
+### Ruby
 
-
-
-
-
-##### CSS
-##### Javascript
-##### Node.js
-##### Angular.js
-##### Java
-##### Python
-##### Ruby
-
-##### Backbone.js
-##### Angular.js
-##### React
-##### Ember.js
-##### Bootstrap
-##### Node.js
-##### JQuery
+### Backbone.js
+### Angular.js
+### React
+### Ember.js
+### Bootstrap
+### Node.js
+### JQuery
