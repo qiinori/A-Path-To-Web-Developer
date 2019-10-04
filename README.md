@@ -2,8 +2,8 @@
 
 ## Table of Contents
 * **Learning Path**
-..* [Front-end Developer roadmap](#roadmap-for-front-end-developer)
-..* [IBM job requirements](#ibm-front-end-developer-interns)   
+    * [Front-end Developer roadmap](#roadmap-for-front-end-developer)
+    * [IBM job requirements](#ibm-front-end-developer-interns)   
 
 
  >Based on roadmap and job requirements   
