@@ -2,30 +2,30 @@
 
 ## Table of Contents
 * **Learning Path**
- * [Front-end Developer roadmap](### Road map for front-end Developer)
- * [IBM job requirements](### IBM Front-End Developer Interns)   
+ * [Front-end Developer roadmap](#roadmap-for-front-end-developer)
+ * [IBM job requirements](#ibm-front-end-developer-interns)   
 
 
  >Based on roadmap and job requirements   
  >Creating learning objects...
 
 
-### [HTML(Hypertext Markup Language)](# hTML(Hypertext Markup Language))
-### CSS(Cascading Style Sheets)
-### Javascript
-### Node.js
-### Angular.js
-### Java
-### Python
-### Ruby
+### [HTML(Hypertext Markup Language)](#htmlhypertext-markup-language)
+### [CSS(Cascading Style Sheets)](#csscascading-style-sheets-1)
+### [Javascript](#javascript-1)
+### [Node.js](#nodejs-2)
+### [Angular.js](#angularjs-2)
+### [Java](#java-1)
+### [Python](#python-1)
+### [Ruby](#ruby-1)
 
-### Backbone.js
-### Angular.js
-### React
-### Ember.js
-### Bootstrap
-### Node.js
-### JQuery
+### [Backbone.js](#backbonejs-1)
+### [Angular.js](#angularjs-3)
+### [React](#react-1)
+### [Ember.js](#emberjs-1)
+### [Bootstrap](#bootstrap-1)
+### [Node.js](#nodejs-3)
+### [JQuery](#jquery-1)
 
 ### Roadmap for front-end Developer
 ![Road map for front-end Developer](https://github.com/qiinori/A-Path-To-Front-End-Developer/blob/master/images/frontend-transparent.png)
