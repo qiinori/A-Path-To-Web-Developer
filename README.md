@@ -9,29 +9,29 @@
  >Based on roadmap and job requirements
  Creating learning objects...
 
- ##### HTML(Hypertext Markup Language)
- ##### CSS(Cascading Style Sheets)
- ##### Javascript
- ##### Node.js
- ##### Angular.js
- ##### Java
- ##### Python
- ##### Ruby
+ ### HTML(Hypertext Markup Language)
+ ### CSS(Cascading Style Sheets)
+ ### Javascript
+ ### Node.js
+ ### Angular.js
+ ### Java
+ ### Python
+ ### Ruby
 
- ##### Backbone.js
- ##### Angular.js
- ##### React
- ##### Ember.js
- ##### Bootstrap
- ##### Node.js
- ##### JQuery
-
-
-![Road map for front-end Developer](https://github.com/qiinori/A-Path-To-Front-End-Developer/blob/master/images/frontend-transparent.png)
+ ### Backbone.js
+ ### Angular.js
+ ### React
+ ### Ember.js
+ ### Bootstrap
+ ### Node.js
+ ### JQuery
 
 
+![Road map for front-end Developer][roadmap](https://github.com/qiinori/A-Path-To-Front-End-Developer/blob/master/images/frontend-transparent.png)
+[roadmap]:https://roadmap.sh/frontend
 
-![IBM Logo]("IBM")
+
+![IBM Logo](https://github.com/qiinori/A-Path-To-Front-End-Developer/blob/master/images/IBM%20logo.PNG"IBM")
 >Front-End Developer Interns:
 Have passion and experience for building responsive, elegant and engaging experiences with future friendly web technologies.
 Work closely with designers to take wireframes from conception to implementation and design and improve user interfaces
@@ -54,28 +54,28 @@ You have a basic understanding of software development and programming languages
 >
 >Must have basic knowledge in one or more of the following technology areas: Java, Ruby, Python, Javascript, HTML, CSS, Node.js, Angular.js
 Knowledge of Backbone.js, Angular.js, React, Ember.js, Bootstrap, Node.js, and JQuery
-Willing to travel up to 10%
+Willing to travel up to 10%    
 from   
 https://careers.ibm.com/ShowJob/Id/757416/Front-End-Developer-Intern-12-months-(Ottawa,-ON)/?lang=en#?lang=en
 
-##### HTML
+#### HTML(Hypertext Markup Language)
 
 
 
 
 
-##### CSS
-##### Javascript
-##### Node.js
-##### Angular.js
-##### Java
-##### Python
-##### Ruby
+#### CSS
+#### Javascript
+#### Node.js
+#### Angular.js
+#### Java
+#### Python
+#### Ruby
 
-##### Backbone.js
-##### Angular.js
-##### React
-##### Ember.js
-##### Bootstrap
-##### Node.js
-##### JQuery
+#### Backbone.js
+#### Angular.js
+#### React
+#### Ember.js
+#### Bootstrap
+#### Node.js
+#### JQuery
