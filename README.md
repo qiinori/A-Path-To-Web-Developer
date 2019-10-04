@@ -6,10 +6,10 @@
  * [IBM job requirements](IBM Logo)   
 
 
- >Based on roadmap and job requirements
- Creating learning objects...
+ >Based on roadmap and job requirements   
+ >Creating learning objects...
 
- ### [HTML(Hypertext Markup Language)](#### HTML(Hypertext Markup Language))
+ ### [HTML(Hypertext Markup Language)](###HTML(Hypertext Markup Language))
  ### CSS(Cascading Style Sheets)
  ### Javascript
  ### Node.js
@@ -28,7 +28,7 @@
 
 
 ![Road map for front-end Developer](https://github.com/qiinori/A-Path-To-Front-End-Developer/blob/master/images/frontend-transparent.png)
-[roadmap]:https://roadmap.sh/frontend
+from https://roadmap.sh/frontend
 
 
 ![IBM Logo](https://github.com/qiinori/A-Path-To-Front-End-Developer/blob/master/images/IBM%20logo.PNG "IBM")
@@ -58,7 +58,7 @@ Willing to travel up to 10%
 from   
 https://careers.ibm.com/ShowJob/Id/757416/Front-End-Developer-Intern-12-months-(Ottawa,-ON)/?lang=en#?lang=en
 
-#### HTML(Hypertext Markup Language)
+### HTML(Hypertext Markup Language)
 ### CSS(Cascading Style Sheets)
 ### Javascript
 ### Node.js
