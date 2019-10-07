@@ -10,23 +10,20 @@
  >Creating learning objects...
 
 
-* [HTML(Hypertext Markup Language)](#htmlhypertext-markup-language-1)
-* [CSS(Cascading Style Sheets)](#csscascading-style-sheets-1)
-* [Javascript](#javascript-1)
+* [HTML(Hypertext Markup Language)](#htmlhypertext-markup-language)
+* [CSS(Cascading Style Sheets)](#csscascading-style-sheets)
+* [Javascript](#javascript)
 * [DOM](#dom)
 * [The fundamentals of user interface design](#the-fundamentals-of-user-interface-design)
-* [Node.js](#nodejs-2)
-* [Angular.js](#angularjs-2)
-* [Java](#java-1)
-* [Python](#python-1)
-* [Ruby](#ruby-1)
-
-* [Backbone.js](#backbonejs-1)
-* [Angular.js](#angularjs-3)
-* [React](#react-1)
-* [Ember.js](#emberjs-1)
-* [Bootstrap](#bootstrap-1)
-* [Node.js](#nodejs-3)
+* [Node.js](#nodejs)
+* [Angular.js](#angularjs-1)
+* [Java](#java)
+* [Python](#python)
+* [Ruby](#ruby)
+* [Backbone.js](#backbonejs)
+* [React](#react)
+* [Ember.js](#emberjs)
+* [Bootstrap](#bootstrap)
 * [JQuery](#jquery-1)
 
 ### References
