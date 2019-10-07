@@ -13,8 +13,8 @@
 * [HTML(Hypertext Markup Language)](#htmlhypertext-markup-language-1)
 * [CSS(Cascading Style Sheets)](#csscascading-style-sheets-1)
 * [Javascript](#javascript-1)
-* [DOM](#DOM)
-* [The fundamentals of user interface design]()
+* [DOM](#dom)
+* [The fundamentals of user interface design](#the-fundamentals-of-user-interface-design)
 * [Node.js](#nodejs-2)
 * [Angular.js](#angularjs-2)
 * [Java](#java-1)
@@ -30,8 +30,8 @@
 * [JQuery](#jquery-1)
 
 ### References
-[frontendmasters book](https://frontendmasters.com/books/front-end-handbook/2019/#1)
-
+Frontendmasters book: https://frontendmasters.com/books/front-end-handbook/2019/#1
+____________________________________________________________________________________
 ### Roadmap for front-end Developer
 ![Road map for front-end Developer](https://github.com/qiinori/A-Path-To-Front-End-Developer/blob/master/images/frontend-transparent.png)
 from https://roadmap.sh/frontend
