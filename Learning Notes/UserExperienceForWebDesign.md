@@ -7,8 +7,8 @@ Persona
 * Goals
 * Concerns
 
-How people got to ur website. 
-88% search 11%direct   
+How people got to ur website.   
+88% search 11% direct     
 Search term is essential.    
 
 Tailor the content on your site to the group of users you care most about.  
@@ -35,17 +35,17 @@ Nav structures:
 * Task
 Menus should be no longer than 7+2or 7-2 items!
 
-** Fitter's Law **
+**Fitter's Law**
 It's faster to hit larger targets closer to you than smaller targets farther from you
 Easiest location on the screen to use as a target:the position under your mouse
 
 ## Site layout
 It is good to use "|"
-Format:scrolling and sequential and splitting
+Format:scrolling and sequential and splitting  
 
 ## Writing for the web
 People browse in F pattern.  
-Summary in 1st paragraph.  
+Summary in 1st paragraph.   
 Page heading has useful info.  
 Frontload headings and bullet points with info-carrying words.  
 
@@ -72,32 +72,32 @@ Creating landing pages from ad campaigns
 ## Detail and product pages
 1. Describe the topic factually
 2. Provide info helps the decision process
-Writing descriptive text
-Using images to set context
-About Us page:provide details will help someone to trust you
+Writing descriptive text  
+Using images to set context   
+About Us page: provide details will help someone to trust you   
 
 ## Forms
-Ask question at the right time
-Making forms as painless as possible
-Use forgiving forms
+Ask question at the right time  
+Making forms as painless as possible  
+Use forgiving forms  
 
 ## Using Media to help tell your story
-Different types of Media
-Page load time
+Different types of Media  
+Page load time  
 
 ## Balancing adverts and content
-Valuable content
-Graphical ads
-Text ads
+Valuable content  
+Graphical ads  
+Text ads  
 
 ## Summary:Good Design Practice
 * keep things simple
 * keep things consistent
 * keep things standard
 
-Considering your users!
-Be mindful of your user's time
-Reputation
+Considering your users!  
+Be mindful of your user's time  
+Reputation  
 
 
 
