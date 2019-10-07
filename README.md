@@ -24,7 +24,24 @@
 * [React](#react)
 * [Ember.js](#emberjs)
 * [Bootstrap](#bootstrap)
-* [JQuery](#jquery-1)
+* [JQuery](#jquery)
+
+### Course taken
+* Web Development Foundations: Full-Stack vs Front-End
+* Web Programming Foundations
+* Programming Foundations: Fundamentals
+* User Experience for Web Design
+* UX Foundations: Accessibility
+* HTML Essential Training
+* CSS Essential Training 1
+* CSS Essential Training 2
+* CSS Essential Training 3
+* JavaScript Essential Training
+* Responsive Layout
+* Learning GitHub
+* Bootstrap 4 Essential Training
+* Sass Essential Training
+* Learning React.js
 
 ### References
 Frontendmasters book: https://frontendmasters.com/books/front-end-handbook/2019/#1
