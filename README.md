@@ -10,22 +10,27 @@
  >Creating learning objects...
 
 
-### [HTML(Hypertext Markup Language)](#htmlhypertext-markup-language-1)
-### [CSS(Cascading Style Sheets)](#csscascading-style-sheets-1)
-### [Javascript](#javascript-1)
-### [Node.js](#nodejs-2)
-### [Angular.js](#angularjs-2)
-### [Java](#java-1)
-### [Python](#python-1)
-### [Ruby](#ruby-1)
+* [HTML(Hypertext Markup Language)](#htmlhypertext-markup-language-1)
+* [CSS(Cascading Style Sheets)](#csscascading-style-sheets-1)
+* [Javascript](#javascript-1)
+* [DOM](#DOM)
+* [The fundamentals of user interface design]()
+* [Node.js](#nodejs-2)
+* [Angular.js](#angularjs-2)
+* [Java](#java-1)
+* [Python](#python-1)
+* [Ruby](#ruby-1)
 
-### [Backbone.js](#backbonejs-1)
-### [Angular.js](#angularjs-3)
-### [React](#react-1)
-### [Ember.js](#emberjs-1)
-### [Bootstrap](#bootstrap-1)
-### [Node.js](#nodejs-3)
-### [JQuery](#jquery-1)
+* [Backbone.js](#backbonejs-1)
+* [Angular.js](#angularjs-3)
+* [React](#react-1)
+* [Ember.js](#emberjs-1)
+* [Bootstrap](#bootstrap-1)
+* [Node.js](#nodejs-3)
+* [JQuery](#jquery-1)
+
+### References
+[frontendmasters book](https://frontendmasters.com/books/front-end-handbook/2019/#1)
 
 ### Roadmap for front-end Developer
 ![Road map for front-end Developer](https://github.com/qiinori/A-Path-To-Front-End-Developer/blob/master/images/frontend-transparent.png)
@@ -67,7 +72,8 @@ https://careers.ibm.com/ShowJob/Id/757416/Front-End-Developer-Intern-12-months-(
 ### Java
 ### Python
 ### Ruby
-
+### DOM
+### The fundamentals of user interface design
 ### Backbone.js
 ### Angular.js
 ### React
