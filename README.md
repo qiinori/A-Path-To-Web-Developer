@@ -1,4 +1,4 @@
-# A-Path-To-Front-End-Developer
+# A-Path-To-Web-Developer
 
 ## Table of Contents
 * **Learning Path**
@@ -26,7 +26,7 @@
 * [Bootstrap](#bootstrap)
 * [JQuery](#jquery)
 
-### Course taken
+### Courses to take
 * Web Development Foundations: Full-Stack vs Front-End
 * Web Programming Foundations
 * Programming Foundations: Fundamentals
@@ -48,11 +48,12 @@ Frontendmasters book: https://frontendmasters.com/books/front-end-handbook/2019/
 freecodecamp: https://learn.freecodecamp.org/
 ____________________________________________________________________________________
 ### Roadmap for front-end Developer
-![Road map for front-end Developer](https://github.com/qiinori/A-Path-To-Front-End-Developer/blob/master/images/frontend-transparent.png)
+![Road map for front-end Developer](https://github.com/qiinori/A-Path-To-Web-Developer/blob/master/images/frontend-transparent.png)
 from https://roadmap.sh/frontend
 
-### IBM Front-End Developer Interns
-![IBM Logo](https://github.com/qiinori/A-Path-To-Front-End-Developer/blob/master/images/IBM%20logo.PNG "IBM")
+### Sample intern job requirement 
+IBM Front-End Developer Interns
+![IBM Logo](https://github.com/qiinori/A-Path-To-Web-Developer/blob/master/images/IBM%20logo.PNG "IBM")
 >Front-End Developer Interns:
 Have passion and experience for building responsive, elegant and engaging experiences with future friendly web technologies.
 Work closely with designers to take wireframes from conception to implementation and design and improve user interfaces
@@ -80,9 +81,38 @@ from
 https://careers.ibm.com/ShowJob/Id/757416/Front-End-Developer-Intern-12-months-(Ottawa,-ON)/?lang=en#?lang=en
 
 ### HTML(Hypertext Markup Language)
+doc: https://www.w3schools.com/html/default.asp
 ### CSS(Cascading Style Sheets)
+doc: https://www.w3schools.com/css/default.asp
 ### Javascript
+doc: https://www.w3schools.com/js/default.asp
+#### Responsive Images Solution
+**Picturefill**
+**A responsive image polyfill.**
+
+Project site: https://scottjehl.github.io/picturefill/
+Github:https://github.com/scottjehl/picturefill
+
+To start using Picturefill download one of the files listed above and reference it from the head section of your HTML document with the following code:
+```html
+<script src="js/picturefill.js"></script>
+```
+To allow your page to load more efficiently, we'd recommend adding an async attribute to that script tag as well. This tells the browser that it can load picturefill asynchronously, without waiting for it to finish before loading the rest of the document. If you add this attribute, you'll need to add a line of script before the script tag as well to allow older browsers to recognize picture elements if it encounters them in the page before picturefill has finished loading.
+
+**RECOMMENDED USAGE:**
+```html
+<!--  Picturefill  -->
+  <script>
+    // Picture element HTML5 shiv
+    document.createElement( "picture" );
+  </script>
+  <script src="picturefill.js" async></script>
+```
+Note that if you are already including a recent version of the HTML5 Shiv (sometimes packaged with Modernizr), you may not need this line as it is included there as well. Also, more advanced users may not need this may choose to load Picturefill dynamically using a script loader like Require.js, (AMD and CommonJS support is included in the script).
+Note::add on 07.05.2020
+
 ### Node.js
+Web Link: https://nodejs.org/en/docs/
 ### Angular.js
 ### Java
 ### Python
@@ -92,7 +122,28 @@ https://careers.ibm.com/ShowJob/Id/757416/Front-End-Developer-Intern-12-months-(
 ### Backbone.js
 ### Angular.js
 ### React
+Web Link: https://reactjs.org/
 ### Ember.js
 ### Bootstrap
+Web Link: https://getbootstrap.com/
+**CSS**
+
+```css
+<!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+```
+**JS**
+Many of our components require the use of JavaScript to function. Specifically, they require jQuery, Popper.js, and our own JavaScript plugins. Place the following <script>s near the end of your pages, right before the closing </body> tag, to enable them. jQuery must come first, then Popper.js, and then our JavaScript plugins.
+
+We use jQuery’s slim build, but the full version is also supported.
+```html
+<!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+```
 ### Node.js
+Web Link: https://nodejs.org/en/
 ### JQuery
+Web Link: https://jquery.com/
