@@ -1,0 +1,219 @@
+.countdownHolder {
+    font: 23px/0.8 'Roboto', sans-serif;
+    height: 89px;
+}
+
+.position {
+    display: inline-block;
+    height: 1.8em;
+    position: relative;
+    width: 41px;
+    font-weight: 500;
+    font-size: 0.85em;
+}
+
+.digit {
+    color: #fff;
+    font-size: 2em;
+    font-weight: bold;
+    left: 3px;
+    bottom: 0;
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+}
+
+.countDays {
+    background: none;
+    /* display:none !important;*/
+}
+
+.countDiv0 {
+    /* display:none !important;*/
+}
+
+.countHours {
+    background: none;
+}
+
+.countDiv1 {}
+
+.countMinutes {
+    background: none;
+}
+
+.countDiv2 {}
+
+.countSeconds {
+    background: none;
+}
+
+.countDiv {
+    /*--display:inline-block;
+	width:16px;
+	height:1.6em;
+	position:relative;--*/
+    display: none;
+}
+
+.countDiv:after {
+    top: 0.9em;
+}
+
+
+/*--responsive design--*/
+
+@media(max-width:1024px) {
+    .countDays,
+    .countHours,
+    .countMinutes,
+    .countSeconds {
+        padding: 35px 0;
+    }
+    .boxName {
+        padding: 10px;
+    }
+    .digit {
+        font-size: 1.8em;
+    }
+    #counter {
+        height: 151px;
+    }
+}
+
+@media(max-width:991px) {
+    .timer_wrap {
+        width: 88%;
+    }
+    .countDays,
+    .countHours,
+    .countMinutes,
+    .countSeconds {
+        width: 19.8%;
+    }
+}
+
+@media(max-width:768px) {
+    .digit {
+        font-size: 1.6em;
+    }
+    .position {
+        height: 40px;
+        width: 30px;
+    }
+    #counter {
+        height: 135px;
+    }
+}
+@media(max-width:736px) {
+
+.timer_wrap {
+    width: 90%;
+}
+}
+@media(max-width:667px) {
+    .position {
+        width: 34px;
+    }
+    .countDays, .countHours, .countMinutes, .countSeconds {
+        width: 18.8%;
+    }
+}
+@media(max-width:600px) {
+
+    .timer_wrap {
+        width: 95%;
+    }
+}
+@media(max-width:568px) {
+
+    .digit {
+        font-size: 1.4em;
+    }
+    .countDays, .countHours, .countMinutes, .countSeconds {
+        width: 17.8%;
+    }
+    .position {
+        width: 29px;
+    }
+}
+@media(max-width:480px) {
+   #counter {
+        margin: 20px 12px;
+    }
+    .digit {
+        font-size: 1.3em;
+    }
+    .boxName {
+        font-size: 13px;
+    }
+    .countDays, .countHours, .countMinutes, .countSeconds {
+        width: 18.8%;
+    }
+    .timer_wrap {
+        width: 100%;
+    }
+    #counter {
+        height: 127px;
+    }
+}
+@media(max-width:414px) {
+    .digit {
+        font-size: 1.1em;
+    }
+    .position {
+        width: 23px;
+    }
+    .countDays, .countHours, .countMinutes, .countSeconds {
+        width: 20%;
+    }
+    .points {
+        width: 20px;
+        font-size: 35px;
+        line-height: 132px;
+    }
+    .boxName {
+        font-size: 12px;
+    }
+    #counter {
+        margin: 20px 0px;
+        height: 117px;
+    }
+}
+@media(max-width:384px) {
+    .position {
+        width: 20px;
+        height: 26px;
+    }
+    .points {
+        width: 18px;
+        font-size: 30px;
+        line-height: 120px;
+    }
+    .countDays, .countHours, .countMinutes, .countSeconds {
+        width: 20.5%;
+    }
+}
+@media(max-width:320px) {
+    .countDays, .countHours, .countMinutes, .countSeconds {
+        width: 20%;
+        padding: 30px 0;
+    }
+    .boxName {
+        font-size: 10px;
+    }
+    #counter {
+        height: 105px;
+    }
+    .digit {
+        font-size: 1em;
+    }
+    .points {
+        width: 16px;
+        font-size: 27px;
+        line-height: 112px;
+    }
+  
+}
+
+
+/*--/responsive design--*/
