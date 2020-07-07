@@ -9,22 +9,19 @@
  >Based on roadmap and job requirements   
  >Creating learning objects...
 
-
 * [HTML(Hypertext Markup Language)](#htmlhypertext-markup-language)
 * [CSS(Cascading Style Sheets)](#csscascading-style-sheets)
 * [Javascript](#javascript)
 * [DOM](#dom)
-* [The fundamentals of user interface design](#the-fundamentals-of-user-interface-design)
+* [Bootstrap](#bootstrap)
+* [JQuery](#jquery)
 * [Node.js](#nodejs)
 * [Angular.js](#angularjs-1)
-* [Java](#java)
-* [Python](#python)
 * [Ruby](#ruby)
 * [Backbone.js](#backbonejs)
 * [React](#react)
 * [Ember.js](#emberjs)
-* [Bootstrap](#bootstrap)
-* [JQuery](#jquery)
+* [The fundamentals of user interface design](#the-fundamentals-of-user-interface-design)
 
 ### Courses to take
 * Web Development Foundations: Full-Stack vs Front-End
@@ -110,20 +107,7 @@ To allow your page to load more efficiently, we'd recommend adding an async attr
 ```
 Note that if you are already including a recent version of the HTML5 Shiv (sometimes packaged with Modernizr), you may not need this line as it is included there as well. Also, more advanced users may not need this may choose to load Picturefill dynamically using a script loader like Require.js, (AMD and CommonJS support is included in the script).
 Note::add on 07.05.2020
-
-### Node.js
-Web Link: https://nodejs.org/en/docs/
-### Angular.js
-### Java
-### Python
-### Ruby
 ### DOM
-### The fundamentals of user interface design
-### Backbone.js
-### Angular.js
-### React
-Web Link: https://reactjs.org/
-### Ember.js
 ### Bootstrap
 Web Link: https://getbootstrap.com/
 **CSS**
@@ -147,3 +131,13 @@ We use jQuery’s slim build, but the full version is also supported.
 Web Link: https://nodejs.org/en/
 ### JQuery
 Web Link: https://jquery.com/
+### Node.js
+Web Link: https://nodejs.org/en/docs/
+### Angular.js
+Web Link: https://reactjs.org/
+### React
+### Angular.js
+### Ruby
+### Backbone.js
+### Ember.js
+### The fundamentals of user interface design
