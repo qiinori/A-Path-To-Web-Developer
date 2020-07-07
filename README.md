@@ -45,7 +45,7 @@ Frontendmasters book: https://frontendmasters.com/books/front-end-handbook/2019/
 freecodecamp: https://learn.freecodecamp.org/
 ____________________________________________________________________________________
 ### Roadmap for front-end Developer
-![Road map for front-end Developer](https://github.com/qiinori/A-Path-To-Web-Developer/blob/master/images/frontend-transparent.png)
+![Road map for front-end Developer](https://github.com/qiinori/A-Path-To-Web-Developer/frontendroadmap.png)
 from https://roadmap.sh/frontend
 
 ### Sample intern job requirement 
