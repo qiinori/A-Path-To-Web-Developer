@@ -45,12 +45,13 @@ Frontendmasters book: https://frontendmasters.com/books/front-end-handbook/2019/
 freecodecamp: https://learn.freecodecamp.org/
 ____________________________________________________________________________________
 ### Roadmap for front-end Developer
-![Road map for front-end Developer](https://github.com/qiinori/A-Path-To-Web-Developer/frontendroadmap.png)
+![Road map for front-end Developer](https://github.com/qiinori/A-Path-To-Web-Developer/blob/master/frontendroadmap.png)
 from https://roadmap.sh/frontend
 
 ### Sample intern job requirement 
 IBM Front-End Developer Interns
-![IBM Logo](https://github.com/qiinori/A-Path-To-Web-Developer/blob/master/images/IBM%20logo.PNG "IBM")
+![IBM Logo](https://github.com/qiinori/A-Path-To-Web-Developer/blob/master/images/IBM%20logo.PNG)
+
 >Front-End Developer Interns:
 Have passion and experience for building responsive, elegant and engaging experiences with future friendly web technologies.
 Work closely with designers to take wireframes from conception to implementation and design and improve user interfaces
